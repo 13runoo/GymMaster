@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Gym Master</string>
+    <string name="Words_Home">Transform your schedule</string>
+    <string name="Words_Home2">Transform your body!</string>
+</resources>
